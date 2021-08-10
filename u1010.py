@@ -1,0 +1,6 @@
+numero=int(input())
+horas=int(input())
+valor=float(input())
+salario=float(horas)*(valor)
+print('NUMBER = {}'.format(numero))
+print('SALARY = {:.2f}'.format(salario))
